@@ -22,7 +22,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento full-stack** e 
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c++,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c#,nodejs,git,github,vscode,figma" />
 </p>
 
 ---
