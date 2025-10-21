@@ -31,7 +31,7 @@ Atualmente, estou aprofundando meus estudos em **desenvolvimento full-stack** e 
 
 🚀 **Portfólio Pessoal**  
 Meu site profissional criado com HTML, CSS e JavaScript, com animações suaves e design responsivo.  
-🔗 [Acesse aqui](https://seu-link-do-portfolio.com)
+🔗 [Acesse aqui](https://pepeu011.github.io/portifolio-pedro-toledo/)
 
 🛒 **Sistema E-commerce (em desenvolvimento)**  
 Projeto completo com carrinho de compras, autenticação e integração com API.
