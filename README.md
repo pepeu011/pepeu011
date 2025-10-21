@@ -45,7 +45,7 @@ Aplicação para registro de atividades físicas e bem-estar do usuário.
 
 <p align="center">
   <a href="mailto:pc90026@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-031a99263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-toledo-031a99263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/pepeu011"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.instagram.com/toledo.http"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
