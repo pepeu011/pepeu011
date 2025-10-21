@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Henrique!</h1>
+<h1 align="center">👋 Olá, eu sou o Pedro Toledo!</h1>
 
 <p align="center">
 💻 Desenvolvedor Front-end | 🚀 Apaixonado por tecnologia, design e inovação.
@@ -44,10 +44,10 @@ Aplicação para registro de atividades físicas e bem-estar do usuário.
 ### 📫 Entre em contato comigo
 
 <p align="center">
-  <a href="mailto:pedrohenrique@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pedrohenrique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/pedrohenrique"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/seuusuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:pc90026@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-031a99263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pepeu011"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/toledo.http"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -57,7 +57,7 @@ Aplicação para registro de atividades físicas e bem-estar do usuário.
 - 🧩 Sempre busco aprender algo novo todos os dias  
 - ☕ Café + Código = Produtividade  
 - 🎮 Gosto de games, tecnologia e resolver desafios de lógica  
-- 🌱 Atualmente estudando **JavaScript avançado** e **React**
+- 🌱 Atualmente estudando **JavaScript Iniciante**
 
 ---
 
@@ -68,4 +68,4 @@ Aplicação para registro de atividades físicas e bem-estar do usuário.
 
 ---
 
-<p align="center">🚀 Feito com 💙 por <strong>Pedro Henrique</strong></p>
+<p align="center">🚀 Feito com 💙 por <strong>Pedro Toledo</strong></p>
