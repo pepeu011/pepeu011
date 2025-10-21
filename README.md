@@ -1,40 +1,71 @@
-# Olá, eu sou [Pedro Henrique] 👋
- 
-Bem-vindo ao meu perfil GitHub! Sou estudante de Tecnologia da Informação, apaixonado por programação e desenvolvimento de software. Aqui você encontrará projetos que refletem meu aprendizado e crescimento na área de TI.
- 
-## 🚀 Sobre Mim
- 
-- 🌱 Atualmente, estou aprendendo [Tecnologias/Áreas de Interesse, por exemplo, C#, Desenvolvimento Web].
-- 💡 Estou trabalhando em [projeto atual, por exemplo, um site de cursos de treino de jogos online].
-- 📫 Você pode me encontrar em [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Portfólio](https://seu-portfolio.com) | [Email](pc90026@gmail.com).
- 
-## 🛠️ Tecnologias e Ferramentas
- 
-- **Linguagens:** C#
-- **Frameworks e Bibliotecas:** React, Django, Flask
-- **Ferramentas e Plataformas:** Git, GitHub
-- **Banco de Dados:** MySQL
- 
-## 📚 Projetos em Destaque
- 
-- [**Projeto 1**](link-do-projeto): Descrição breve do projeto, tecnologias utilizadas e objetivo.
-- [**Projeto 2**](link-do-projeto): Descrição breve do projeto, tecnologias utilizadas e objetivo.
-- [**Projeto 3**](link-do-projeto): Descrição breve do projeto, tecnologias utilizadas e objetivo.
- 
-## 📈 Estatísticas do GitHub
- 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
- 
-## 📜 Licença
- 
-Todos os projetos estão licenciados sob a [Licença MIT](LICENSE), a menos que especificado de outra forma.
- 
-## 🧑‍💻 Como Contribuir
- 
-Sinta-se à vontade para contribuir para qualquer um dos meus projetos! Você pode fazer isso abrindo issues, enviando pull requests ou simplesmente fornecendo feedback.
- 
-Obrigado por visitar meu perfil GitHub. Estou ansioso para conectar com você e colaborar em projetos interessantes!
- 
+<h1 align="center">👋 Olá, eu sou o Pedro Henrique!</h1>
+
+<p align="center">
+💻 Desenvolvedor Front-end | 🚀 Apaixonado por tecnologia, design e inovação.
+</p>
+
 ---
- 
-[Pedro Henrique] | [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Portfólio](https://seu-portfolio.com) | [Email](pc90026@gmail.com)
+
+### 🧠 Sobre mim
+
+Sou **Técnico em Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**.  
+Gosto de transformar ideias em soluções reais por meio da programação.  
+Meu foco é criar **aplicações modernas, rápidas e funcionais**, com uma boa experiência de usuário.  
+
+Tenho experiência com desenvolvimento **web**, usando tecnologias como **HTML, CSS, JavaScript** e **React**, além de boas práticas de organização e performance.  
+Atualmente, estou aprofundando meus estudos em **desenvolvimento full-stack** e automações com **Node.js**.
+
+📍 Moro no Brasil e sonho em trabalhar como **freelancer** ou **desenvolvedor independente**, criando produtos digitais úteis e escaláveis.
+
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma" />
+</p>
+
+---
+
+### 💼 Projetos em destaque
+
+🚀 **Portfólio Pessoal**  
+Meu site profissional criado com HTML, CSS e JavaScript, com animações suaves e design responsivo.  
+🔗 [Acesse aqui](https://seu-link-do-portfolio.com)
+
+🛒 **Sistema E-commerce (em desenvolvimento)**  
+Projeto completo com carrinho de compras, autenticação e integração com API.
+
+💪 **Aplicativo Saúde e Bem-Estar**  
+Aplicação para registro de atividades físicas e bem-estar do usuário.
+
+---
+
+### 📫 Entre em contato comigo
+
+<p align="center">
+  <a href="mailto:pedrohenrique@gmail.com"><img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedrohenrique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/pedrohenrique"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/seuusuario"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Curiosidades sobre mim
+
+- 🧩 Sempre busco aprender algo novo todos os dias  
+- ☕ Café + Código = Produtividade  
+- 🎮 Gosto de games, tecnologia e resolver desafios de lógica  
+- 🌱 Atualmente estudando **JavaScript avançado** e **React**
+
+---
+
+### ✨ Frase que me inspira
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.”  
+> — Robert Collier
+
+---
+
+<p align="center">🚀 Feito com 💙 por <strong>Pedro Henrique</strong></p>
